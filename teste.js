@@ -160,7 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	});
 
 	document
-		.querySelector("[name='password']")
+		.querySelector("[name='passw2ord']")
 		.addEventListener("keyup", (e) => {
 			e.currentTarget.setCustomValidity(``);
 		});
