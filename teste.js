@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", () => {
 		try {
 			const password = form.elements.password;
 			const password_confirmation = form.elements.password2;
-
+			dadadadaadad;
 			if (password.value !== password_confirmation.value) {
 				password.setCustomValidity(
 					`A senha deve ser a mesma que confirmação`
